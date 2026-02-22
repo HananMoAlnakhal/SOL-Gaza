@@ -5,7 +5,7 @@ plotly
 pandas
 seaborn
 numpy
-sklearn
+scikit-learn
 sentence_transformers
 huggingface_hub
 transformers
