@@ -1,0 +1,12 @@
+streamlit
+folium
+streamlit-folium
+plotly
+pandas
+seaborn
+numpy
+sklearn
+sentence_transformers
+huggingface_hub
+transformers
+faiss
